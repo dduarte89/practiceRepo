@@ -1,6 +1,10 @@
 <!-- XML for Exams version 2.0-->
 <!--lastEditDate="3/12/2018"-->
 <!--lastEditBy="Diego Duarte" -->
+
+<!-- New changes on this file
+ -->
+
 <eform name="Reporte de Atención por Lesión en Consulta Externa de Urgencias" patientName="" patientId="" patientVisit="" facilityName="" facilityId="" eformDateTime="" signedBy="" signedByName="" needSigner="true">
     <section>
         <group>
